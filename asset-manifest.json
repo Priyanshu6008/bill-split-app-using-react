@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bill-split-app/static/css/main.5cc46bbe.css",
+    "main.js": "/bill-split-app/static/js/main.438faee4.js",
+    "static/js/787.54138637.chunk.js": "/bill-split-app/static/js/787.54138637.chunk.js",
+    "index.html": "/bill-split-app/index.html",
+    "main.5cc46bbe.css.map": "/bill-split-app/static/css/main.5cc46bbe.css.map",
+    "main.438faee4.js.map": "/bill-split-app/static/js/main.438faee4.js.map",
+    "787.54138637.chunk.js.map": "/bill-split-app/static/js/787.54138637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cc46bbe.css",
+    "static/js/main.438faee4.js"
+  ]
+}
