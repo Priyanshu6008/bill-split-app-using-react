@@ -1,3 +1,6 @@
+# Live Demo
+[https://priyanshu6008.github.io/bill-split-app-using-react/](https://priyanshu6008.github.io/bill-split-app-using-react/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
